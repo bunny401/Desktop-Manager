@@ -1,1 +1,1 @@
-# Network-Desktop-Mangaer
+# Network-Desktop-Manager
